@@ -1,0 +1,13 @@
+{
+	"credit": "Made by Daminos_ with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "custom/item/mask/maskapatate"
+	},
+	"display": {
+		"head": {
+			"translation": [0, 0, -7],
+			"scale": [1.1, 1.1, 1.1]
+		}
+	}
+}
