@@ -3,6 +3,8 @@ on:
   push:
     tags:
       - '**'
+permissions:
+    contents: write
 jobs:
   packsquash:
     name: Optimize resource pack
@@ -19,6 +21,9 @@ jobs:
           options: |
             pack_directory = '.'
             output_file_path = '/tmp/pack.zip'
+
+            ['**/*?.md']
+            force_include = true
       - name: Create release
         uses: softprops/action-gh-release@v1
         with:
