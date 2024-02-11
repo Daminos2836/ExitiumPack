@@ -20,7 +20,7 @@ jobs:
           packsquash_version: latest
           options: |
             pack_directory = '.'
-            output_file_path = '/tmp/pack.zip'
+            output_file_path = '/tmp/ExitiumPack.zip'
 
             ['**/*?.md']
             force_include = true
