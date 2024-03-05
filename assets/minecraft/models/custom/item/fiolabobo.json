@@ -2,6 +2,6 @@
     "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "minecraft:custom/none/16x16",
-        "layer1": "minecraft:custom/item/bocoudvi"
+        "layer1": "minecraft:custom/item/fiolabobo"
     }
 }
