@@ -1,0 +1,10 @@
+{
+    "credit": "Made with Blockbench",
+    "parent": "custom/parent/dead_villager",
+    "textures": {
+        "paper": "custom/item/dead_villager/paper_1",
+        "type": "custom/none/64x64",
+        "profession": "custom/none/64x64",
+        "profession_level": "custom/none/64x64"
+    }
+}

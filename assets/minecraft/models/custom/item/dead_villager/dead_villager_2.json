@@ -1,0 +1,10 @@
+{
+    "credit": "Made with Blockbench",
+    "parent": "custom/parent/dead_villager",
+    "textures": {
+        "paper": "custom/item/dead_villager/paper_2",
+        "type": "entity/villager/type/jungle",
+        "profession": "entity/villager/profession/mason",
+        "profession_level": "entity/villager/profession_level/diamond"
+    }
+}

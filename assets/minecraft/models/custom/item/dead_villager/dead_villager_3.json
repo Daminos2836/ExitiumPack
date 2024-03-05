@@ -1,0 +1,10 @@
+{
+    "credit": "Made with Blockbench",
+    "parent": "custom/parent/dead_villager",
+    "textures": {
+        "paper": "custom/item/dead_villager/paper_3",
+        "type": "entity/villager/type/taiga",
+        "profession": "entity/villager/profession/cartographer",
+        "profession_level": "entity/villager/profession_level/emerald"
+    }
+}
