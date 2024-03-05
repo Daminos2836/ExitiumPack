@@ -9,6 +9,11 @@
             "type": "directory",
             "source": "core",
             "prefix": "core/"
+        },
+        {
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
         }
     ]
 }
