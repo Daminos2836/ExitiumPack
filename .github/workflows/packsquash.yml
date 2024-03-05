@@ -24,7 +24,12 @@ jobs:
 
             ['**/*?.md']
             force_include = true
+      - name: Generate_SHA1
+        run: |
+          pack_sha1=$(sha1sum /tmp/ExitiumPack.zip | awk '{ print $1 }')
+          echo "PACK_SHA1=$pack_sha1" >> "$GITHUB_OUTPUT"
       - name: Create release
         uses: softprops/action-gh-release@v1
         with:
           files: /tmp/ExitiumPack.zip
+          body: "SHA1: `${{ steps.Generate_SHA1.outputs.PACK_SHA1 }}`"
