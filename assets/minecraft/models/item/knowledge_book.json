@@ -21,6 +21,18 @@
                 "custom_model_data": 3
             },
             "model": "custom/item/dead_villager/dead_villager_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom/item/dead_villager/dead_villager_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "custom/item/pentacle"
         }
     ]
 }

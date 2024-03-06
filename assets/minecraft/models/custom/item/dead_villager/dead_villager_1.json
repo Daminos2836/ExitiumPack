@@ -3,8 +3,8 @@
     "parent": "custom/parent/dead_villager",
     "textures": {
         "paper": "custom/item/dead_villager/paper_1",
-        "type": "custom/none/64x64",
-        "profession": "custom/none/64x64",
-        "profession_level": "custom/none/64x64"
+        "type": "entity/villager/type/plains",
+        "profession": "entity/villager/profession/leatherworker",
+        "profession_level": "entity/villager/profession_level/gold"
     }
 }
