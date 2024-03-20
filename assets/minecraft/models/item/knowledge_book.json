@@ -8,29 +8,101 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "custom/item/dead_villager/dead_villager_1"
+            "model": "custom/item/key/ilonoube"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "custom/item/dead_villager/dead_villager_2"
+            "model": "custom/item/key/squelette"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "custom/item/dead_villager/dead_villager_3"
+            "model": "custom/item/key/zombie"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "custom/item/dead_villager/dead_villager_4"
+            "model": "custom/item/key/sorciere"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "custom/item/key/ghast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom/item/key/piglin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "custom/item/key/creeper"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "custom/item/key/araignee"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "custom/item/key/blaze"
         },
         {
             "predicate": {
                 "custom_model_data": 10
+            },
+            "model": "custom/item/key/pilleurs"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "custom/item/key/warden"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "custom/item/key/wither"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "custom/item/dead_villager/dead_villager_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "custom/item/dead_villager/dead_villager_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "custom/item/dead_villager/dead_villager_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "custom/item/dead_villager/dead_villager_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110
             },
             "model": "custom/item/pentacle"
         }
